@@ -8,7 +8,7 @@ include:
 
 https://github.com/cachethq/Cachet.git:
   git.latest:
-    - rev: v2.3.8
+    - rev: v2.3.10
     - target: /var/www/cachet
     - unless: test -f /var/www/cachet/.env
     - require:
