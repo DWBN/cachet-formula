@@ -1,9 +1,8 @@
 # cachet-formula
 
-Purpose of formula. Include a short description of what the formula does.
+This formula can install cachet statuspage
 
-
-Describe in a readable form the states this formula supports with examples how to use those states.
+requires nginx-formula and php-formula
 
 
 Install and setup brew:
